@@ -1,5 +1,7 @@
 ### Hi there 👋
+안녕하세요 초보 개발자 최주영이라고 합니다. 잘부탁드립니다!!
 
+[개인 기록 블로그 주소](https://velog.io/@choi-ju-yung)
 <!--
 **choi-ju-yung/choi-ju-yung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
